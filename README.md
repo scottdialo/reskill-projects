@@ -1,1 +1,1 @@
-#  HTML proper tagging
+#  HTML  tags
