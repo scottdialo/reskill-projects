@@ -1,2 +1,1 @@
-# simple-site
-# used HTML 
+#  HTML proper tagging
